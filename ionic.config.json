@@ -1,0 +1,7 @@
+{
+  "name": "cadastro-perfil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
