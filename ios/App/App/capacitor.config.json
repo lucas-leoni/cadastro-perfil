@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "cadastro-perfil",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
